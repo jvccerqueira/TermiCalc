@@ -30,8 +30,8 @@
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
+    git clone git@github.com:jvccerqueira/TermiCalc.git
+    cd TermiCalc
     ```
 
 2.  **Instale as dependências:**
